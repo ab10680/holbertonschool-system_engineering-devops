@@ -1,5 +1,6 @@
 # Distributed Web Infrastructure
 
+
 ## Architecture Diagram
 ## Components
 - **Load Balancer (HAproxy)**: Distributes incoming requests to multiple servers.
