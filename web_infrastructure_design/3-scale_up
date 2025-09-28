@@ -1,6 +1,5 @@
 # Scale Up Web Infrastructure
 
-
 ## Components
 - **Additional Server**: Splits responsibilities for better performance.
 - **Load Balancer Cluster**: Ensures high availability and traffic distribution.
